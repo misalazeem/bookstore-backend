@@ -30,6 +30,10 @@ This is a bookstore backend built on nest.js. It has CRUD endpoints for books an
 $ npm install
 ```
 
+## Env variables
+
+- Set the environment variables
+
 ## Running the db
 
 ```bash
