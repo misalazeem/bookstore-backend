@@ -22,7 +22,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a bookstore backend built on nest.js. It has CRUD endpoints for books and categories.
 
 ## Installation
 
@@ -70,9 +70,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+👤 **Misal Azeem**
+
+- GitHub: [@misalazeem](https://github.com/misalazeem)
+- LinkedIn: https://www.linkedin.com/in/misal-azeem/
 
 ## License
 
